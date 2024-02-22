@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iamabhi160520/TextUtilis-React/static/css/main.f855e6bc.css",
+    "main.js": "/iamabhi160520/TextUtilis-React/static/js/main.41d20341.js",
+    "static/js/453.02b6ed6f.chunk.js": "/iamabhi160520/TextUtilis-React/static/js/453.02b6ed6f.chunk.js",
+    "index.html": "/iamabhi160520/TextUtilis-React/index.html",
+    "main.f855e6bc.css.map": "/iamabhi160520/TextUtilis-React/static/css/main.f855e6bc.css.map",
+    "main.41d20341.js.map": "/iamabhi160520/TextUtilis-React/static/js/main.41d20341.js.map",
+    "453.02b6ed6f.chunk.js.map": "/iamabhi160520/TextUtilis-React/static/js/453.02b6ed6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.41d20341.js"
+  ]
+}
