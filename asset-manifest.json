@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/iamabhi160520/TextUtilis-React/static/css/main.f855e6bc.css",
-    "main.js": "/iamabhi160520/TextUtilis-React/static/js/main.41d20341.js",
-    "static/js/453.02b6ed6f.chunk.js": "/iamabhi160520/TextUtilis-React/static/js/453.02b6ed6f.chunk.js",
-    "index.html": "/iamabhi160520/TextUtilis-React/index.html",
-    "main.f855e6bc.css.map": "/iamabhi160520/TextUtilis-React/static/css/main.f855e6bc.css.map",
-    "main.41d20341.js.map": "/iamabhi160520/TextUtilis-React/static/js/main.41d20341.js.map",
-    "453.02b6ed6f.chunk.js.map": "/iamabhi160520/TextUtilis-React/static/js/453.02b6ed6f.chunk.js.map"
+    "main.css": "/TextUtilis-React/static/css/main.f855e6bc.css",
+    "main.js": "/TextUtilis-React/static/js/main.97b34777.js",
+    "static/js/453.02b6ed6f.chunk.js": "/TextUtilis-React/static/js/453.02b6ed6f.chunk.js",
+    "index.html": "/TextUtilis-React/index.html",
+    "main.f855e6bc.css.map": "/TextUtilis-React/static/css/main.f855e6bc.css.map",
+    "main.97b34777.js.map": "/TextUtilis-React/static/js/main.97b34777.js.map",
+    "453.02b6ed6f.chunk.js.map": "/TextUtilis-React/static/js/453.02b6ed6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.41d20341.js"
+    "static/js/main.97b34777.js"
   ]
 }
